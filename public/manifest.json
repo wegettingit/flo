@@ -1,0 +1,8 @@
+{
+  "name": "Fló Scheduler",
+  "short_name": "Fló",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Green-themed AI scheduler"
+}
