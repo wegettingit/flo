@@ -98,6 +98,6 @@ Thank you for respecting the boundary between open utility and private IP.---
 
 > 📌 This repo is part of the public-facing utility layer of a larger AI kitchen system.  
 > The core system logic, AI memory structures, and ethical design engine remain proprietary and are not included here.  
-> For inquiries about partnership, collaboration, or licensing, please contact [youremail@proton.me].
+> For inquiries about partnership, collaboration, or licensing, please contact [johnethay@icloud.com].
 
 
