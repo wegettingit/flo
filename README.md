@@ -82,3 +82,16 @@ Let me know when you're ready to move onto:
 - GitHub Actions or Docs site setup  
 
 This `README.md` is plug-and-play — just commit it.
+# Security Policy
+
+## Reporting Vulnerabilities
+
+If you discover a potential vulnerability or misuse related to this repository, please do not create a public issue. Instead, email [youremail@proton.me] to report it securely.
+
+## Protection of Core System
+
+This repository is a standalone tool and does not include the proprietary systems, memory structures, or decision frameworks of the johnE.ai platform. All core logic is retained privately.
+
+For collaboration inquiries, please reach out directly with appropriate agreements in place.
+
+Thank you for respecting the boundary between open utility and private IP.
