@@ -79,3 +79,9 @@ Since you're teaching and visualizing:
 
 ```markdown
 ![FIO Read vs Write Performance](docs/sample_chart.png)
+results/
+*.log
+*.json
+*.csv
+__pycache__/
+.env
