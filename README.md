@@ -44,3 +44,38 @@ Whether you're a dev, sysadmin, CS student, or just testing your SSDs for fun �
 ```bash
 git clone https://github.com/wegettingit/fio-toolkit.git
 cd fio-toolkit
+---
+
+## 📝 Usage
+
+```bash
+./run.sh jobs/read-seq.fio
+./run.sh --batch jobs/
+├── jobs/              # Predefined fio job files
+├── results/           # Output directory (auto-created)
+├── scripts/           # Optional analysis/graphing tools
+├── run.sh             # Main script runner
+├── README.md          # This file
+{
+  "jobs": [
+    {
+      "jobname": "seq-read",
+      "read": {
+        "iops": 8421,
+        "bw": 1072,
+        "lat_ns": { "mean": 37120 }
+      }
+    }
+  ]
+}
+
+---
+
+## ✅ Step 2: Add a Screenshot or Chart
+Since you're teaching and visualizing:
+- Create a `/docs` folder
+- Drop a sample chart or JSON output screenshot
+- Add this to README under `📊 Sample Output`
+
+```markdown
+![FIO Read vs Write Performance](docs/sample_chart.png)
