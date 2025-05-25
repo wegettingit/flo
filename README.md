@@ -1,27 +1,34 @@
-# 🧪 FIO Toolkit by Johne
+# Fló — Fair Labor Operating System
 
-A modular, scriptable, and human-readable benchmarking suite built around [FIO](https://fio.readthedocs.io/en/latest/).  
-Designed for real-world testing, automation, and education in environments where precision matters.
+**Fló** is a kitchen-first scheduling tool designed to make shift planning simple, fair, and visual.
 
-> _“Measure like a scientist. Optimize like a chef.”_
+- 📅 AM/PM block-based weekly scheduling
+- 🌿 Clean green-themed UI
+- 🧑‍🍳 Designed by real prep cooks for real prep needs
+- 🛠️ Live 2-week view support (in progress)
+- 🍽️ Family meal planner built-in
+
+## Features
+- Drag-and-drop interface for assigning staff
+- “911/86’d” button for urgent calls
+- Daily quote system for morale
+- Customizable shift labels (e.g., Breakfast — Frey)
+
+## Status
+> 🟡 Currently in prototype phase  
+> ✅ Live on Netlify and GitHub Pages  
+> 🧪 Testing needed in real kitchens
+
+## Roadmap
+- [ ] Add inline editing for quick schedule tweaks
+- [ ] Export to PDF for wall posting
+- [ ] MEP integration for smarter shift auto-fill
+- [ ] Real-time staff feedback input
+
+## Built With
+- HTML / CSS / JS
+- GitHub Pages + Netlify (PWA-ready)
 
 ---
 
-## 📦 What This Repo Is
-
-This is more than just a wrapper around `fio`. It's a growing toolkit for:
-
-- 🔁 Automating repeatable I/O tests across environments  
-- 📚 Teaching others how to understand disk behavior through real results  
-- 📊 Producing readable `.csv` and `.json` reports from raw benchmarking  
-- 🍳 Helping chefs, coders, and creators understand how the tools beneath them perform  
-
----
-
-## 🚀 Quick Start
-
-```bash
-git clone https://github.com/wegettingit/fio-toolkit.git
-cd fio-toolkit
-./run.sh jobs/read-seq.fio
-./run.sh --batch jobs/
+🧠 Part of the [johnE.ai](https://johnE.ai) worker-first AI platform
